@@ -9,5 +9,4 @@ public class MlbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MlbApplication.class, args);
 	}
-
 }

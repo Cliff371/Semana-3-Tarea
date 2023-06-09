@@ -9,5 +9,4 @@ class MlbApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
