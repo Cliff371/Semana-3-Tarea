@@ -9,7 +9,6 @@
     padding-left: 15px;
     overflow: auto;
 }
-
 #menu{
     position: absolute;
     top: 8%;
@@ -21,7 +20,6 @@
     padding-left: 15px;
     overflow: auto;
 }
-
 #menu a:visited {
     color: white;
 }
@@ -29,7 +27,6 @@
     background-color: blue;
     color: white;
 }
-
 #barraLateral {
     position: absolute;
     top: 12%;
@@ -41,7 +38,6 @@
     padding-left: 14px;
     overflow: auto;
 }
-
 #contenido{
     position: absolute;
     top: 12%;
@@ -53,7 +49,6 @@
     padding-left: 15px;
     overflow: auto;
 }
-
 #piePagina{
     position: absolute;
     bottom: 0;
@@ -65,18 +60,15 @@
     padding-left: 20px;
     text-align: center;
 }
-
 #piePagina address{
     display: inline;
 }
-
 #encabezadotabla{
     font-size: 20px;
     background-color: navy;
     color: white;
     text-align: center;
 }
-
 #tablaResumen tr:nth-child(odd) {
     background-color: navy;
     color: white;
@@ -87,7 +79,6 @@
     color: navy;
     text-align: center;
 }
-
 #tablaResumen{
     font-size: 25px;
 }
